@@ -1,6 +1,6 @@
 # Leslie Olivares Callejas
-- 👋 Hi, I’m @leslieolivarescallejas
-- 👀 I’m interested in Data Analysist & Python
+- 👋 Hi, I’m Leslie
+- 👀 I’m interested in Data Analysist & Machine Learning
 - 🌱 I’m currently learning SQL and Big Query
 - 💞️ I’m looking to collaborate on anything about social work or communities
 - 📫 How to reach me leslie.olivares6@gmail.com  
